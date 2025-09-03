@@ -54,19 +54,30 @@ bot_python_mysql/
 
 ---
 
+
 ## 🚀 Como usar
 
 Clone o repositório:
 
 ```bash
 git clone https://github.com/engvictortech/bot_python_mysql.git
+cd bot_python_mysql
+
+2. **Atualizar o link do GIF**:
+
+Opção 1 – caminho relativo com `?raw=true`:
+
+```markdown
+![Bot Demo](docs/bot_demo.gif?raw=true)
+
 
 
 ## 🎬 Demonstração do Bot
 
 Veja o bot em ação:
 
-![Bot Demo](/docs/bot_demo.gif?raw=true)
+![Bot Demo](docs/bot_demo.gif?raw=true)
+
 
 
 
