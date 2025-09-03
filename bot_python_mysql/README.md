@@ -92,7 +92,8 @@ python src/bot_whatsapp.py
 
  # 🤖 Bot Python + MySQL
 
-![bot_demo.gif](gif/bot_demo.gif)
+![Demonstração do Bot](gif/bot_demo.gif)
+
 
 
 📌 Autor
