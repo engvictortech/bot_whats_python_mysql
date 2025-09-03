@@ -77,7 +77,8 @@ Opção 1 – caminho relativo com `?raw=true`:
 
 Veja o bot em ação:
 
-![Bot Demo](https://github.com/engvictortech/bot_python_mysql/raw/main/docs/bot_demo.gif)
+![Bot Demo](bot_python_mysql/docs/bot_demo.gif?raw=true)
+
 
 
 
