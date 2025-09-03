@@ -66,6 +66,7 @@ git clone https://github.com/engvictortech/bot_python_mysql.git
 
 Veja o bot em ação:
 
-![Bot Demo](docs/bot_demo.gif?raw=true)
+![Bot Demo](https://github.com/engvictortech/bot_python_mysql/raw/main/docs/bot_demo.gif)
+
 
 
