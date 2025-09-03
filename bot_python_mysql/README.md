@@ -92,8 +92,7 @@ python src/bot_whatsapp.py
 
  # 🤖 Bot Python + MySQL
 
-![Bot em ação](https://github.com/engvictortech/bot_python_mysql/blob/main/bot_python_mysql/gif/bot_demo.gif)
-
+![bot_demo.gif](gif/bot_demo.gif)
 
 
 📌 Autor
