@@ -90,7 +90,7 @@ python src/bot_whatsapp.py
 
 🎬 Demonstração do Bot
 
- ![Bot em ação](https://github.com/engvictortech/bot_python_mysql/blob/main/docs/bot_demo.gif?raw=true)
+ ![Bot em ação](docs/bot_demo.gif)
 
 
 📌 Autor
