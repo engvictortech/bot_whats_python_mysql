@@ -76,4 +76,5 @@ cd bot_python_mysql
 
 Veja o bot em ação:
 
-![Bot Demo](docs/bot_demo.gif)
+![Bot Demo](gif/bot_demo.gif)
+
