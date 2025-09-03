@@ -1,34 +1,34 @@
-🤖 Bot Conversacional WhatsApp + Python + MySQL
+## 🤖 Bot Conversacional WhatsApp + Python + MySQL
 
 Aprenda, teste e explore um bot interativo integrado ao WhatsApp que salva mensagens em banco de dados MySQL.
 
-📝 Funcionalidades
+## 📝 Funcionalidades
 
-Recebe e envia mensagens via WhatsApp (Twilio API).
+💬 Recebe e envia mensagens via WhatsApp (Twilio API).
 
-Responde dinamicamente com base em palavras-chave.
+🤖 Responde dinamicamente com base em palavras-chave.
 
-Salva todas as mensagens no banco de dados MySQL.
+💾 Salva todas as mensagens no banco de dados MySQL.
 
-Estrutura modular para facilitar manutenção e expansão.
+🔧 Estrutura modular para fácil manutenção e expansão.
 
-Versão de testes via linha de comando (CLI) disponível.
+🖥️ Versão de testes via linha de comando (CLI) disponível.
 
 💻 Tecnologias
 
-Python 3.13
+🐍 Python 3.13
 
-MySQL 8
+🗄️ MySQL 8
 
-mysql-connector-python
+🔌 mysql-connector-python
 
-python-dotenv
+🔑 python-dotenv
 
-Flask (para webhook do WhatsApp com Twilio)
+🌐 Flask (para webhook do WhatsApp com Twilio)
 
-Twilio API para WhatsApp
+📲 Twilio API para WhatsApp
 
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 bot-whats_python_mysql/
 
@@ -49,53 +49,63 @@ bot-whats_python_mysql/
 ├─ requirements.txt       # Dependências Python  
 └─ README.md              # Documentação do projeto  
 
-🚀 Como usar
+## 🚀 Como usar
 
-Clone o repositório:
+## 1️⃣ Clone o repositório:
 
 git clone https://github.com/engvictortech/bot_whats_python_mysql.git
+
 cd bot_whats_python_mysql
 
-
-Crie e ative o ambiente virtual:
+## 2️⃣ Crie e ative o ambiente virtual:
 
 python -m venv venv
 .\venv\Scripts\activate   # Windows
+
 source venv/bin/activate  # Linux/Mac
 
 
-Instale as dependências:
+## 3️⃣ Instale as dependências:
 
 pip install -r requirements.txt
 
 
-Configure o arquivo .env:
+## 4️⃣ Configure o arquivo .env:
 
 DB_HOST=localhost
+
 DB_USER=seu_usuario
+
 DB_PASSWORD=sua_senha
+
 DB_NAME=botdb
 
 # Twilio
 TWILIO_ACCOUNT_SID=seu_account_sid
+
 TWILIO_AUTH_TOKEN=seu_auth_token
+
 TWILIO_WHATSAPP_NUMBER=whatsapp:+seu_numero_twilio
 
 
-Rode a versão CLI (teste local):
+## 5️⃣ Rode a versão CLI (teste local):
 
 python src/bot_cli.py
 
 
-Rode a versão WhatsApp (Twilio):
+## 6️⃣ Rode a versão WhatsApp (Twilio):
 
 python src/bot_whatsapp.py
 
-🎬 Demonstração do Bot
+## 🎬 Demonstração do Bot
 
-📌 Autor
 
-👨‍💻 Projeto desenvolvido por Victor Hugo Miranda Crispim.
+
+![🎬 Bot em ação](gif/bot_demo.gif)
+
+
+
+## 👨‍💻 Projeto desenvolvido por Victor Hugo Miranda Crispim.
 
 
 
