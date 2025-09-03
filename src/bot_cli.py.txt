@@ -1,0 +1,9 @@
+from db import insert_message, list_messages, init_db
+
+init_db()  # garante que a tabela exista
+
+insert_message("Victor", "Olá, isso é um teste!")
+
+mensagens = list_messages()
+for m in mensagens:
+    print(m)
