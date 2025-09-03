@@ -1,17 +1,15 @@
-# Bot Conversacional Python + MySQL
-
-Um **bot conversacional em Python** que salva mensagens no banco de dados MySQL.  
-Ideal para aprendizado, portfólio ou demonstração de habilidades em **Python, bancos de dados e automação**.
+# # 🤖 Bot Conversacional Python + MySQL
+Aprenda, teste e explore um bot interativo que salva mensagens em banco de dados.
 
 ---
 
 ## 📝 Funcionalidades
 
-- Recebe mensagens do usuário em terminal ou CLI
+- Recebe mensagens do usuário no terminal ou CLI
 - Responde de forma dinâmica com respostas pré-definidas e palavras-chave
 - Salva todas as mensagens no MySQL
 - Estrutura pronta para integração com WhatsApp via Twilio
-- Fácil de estender com novas funcionalidades e inteligência
+- Fácil de estender com novas funcionalidades
 
 ---
 
@@ -27,54 +25,48 @@ Ideal para aprendizado, portfólio ou demonstração de habilidades em **Python,
 ## 📂 Estrutura do Projeto
 
 bot_python_mysql/
+
 │
 
-├─ venv/                       # Ambiente virtual (não enviar ao GitHub)
+├─ venv/ # Ambiente virtual (não enviar ao GitHub)
 
 ├─ src/
 
-│   ├─ __init__.py             # Marca src como pacote Python
+│ ├─ init.py # Marca src como pacote Python
 
-│   ├─ db.py                   # Conexão MySQL + funções CRUD
+│ ├─ db.py # Conexão MySQL + funções CRUD
 
-│   ├─ bot_cli.py              # Bot no terminal
+│ ├─ bot_cli.py # Bot no terminal
 
-│   └─ bot_whatsapp.py         # Bot conversacional avançado
+│ └─ bot_whatsapp.py # Bot conversacional avançado
 
 ├─ docs/
 
-│   └─ bot_demo.gif            # GIF ou imagem mostrando o bot em ação
+│ └─ bot_demo.gif # GIF mostrando o bot em ação
 
-├─ .env                        # Credenciais (não enviar ao GitHub)
+├─ .env # Credenciais (não enviar ao GitHub)
 
-├─ .gitignore                  # Ignorar venv, .env e arquivos temporários
+├─ .gitignore # Ignorar venv, .env e arquivos temporários
 
-├─ requirements.txt            # Dependências Python
+├─ requirements.txt # Dependências Python
 
-└─ README.md                   # Documentação do projeto
-
-
----
-
-## ⚡ Pré-requisitos
-
-- Python 3.13
-- MySQL 8
-- Conta Twilio (opcional, para WhatsApp)
+└─ README.md # Documentação do projeto
 
 ---
 
 ## 🚀 Como usar
 
-1. Clone o repositório:
+Clone o repositório:
+
 ```bash
-git clone https://github.com/seu-usuario/bot_python_mysql.git
-cd bot_python_mysql
+git clone https://github.com/engvictortech/bot_python_mysql.git
 
 
 ## 🎬 Demonstração do Bot
 
 Veja o bot em ação:
 
-![Bot Demo](gif/bot_demo.gif)
+![Bot Demo](https://github.com/engvictortech/bot_python_mysql/raw/main/docs/bot_demo.gif)
+
+
 
