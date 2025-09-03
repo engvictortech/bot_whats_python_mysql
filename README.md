@@ -28,7 +28,7 @@ bot_python_mysql/
 
 │
 
-├─ venv/ # Ambiente virtual (não enviar ao GitHub)
+├─ venv/ # Ambiente virtual 
 
 ├─ src/
 
@@ -44,7 +44,7 @@ bot_python_mysql/
 
 │ └─ bot_demo.gif # GIF mostrando o bot em ação
 
-├─ .env # Credenciais (não enviar ao GitHub)
+├─ .env # Credenciais 
 
 ├─ .gitignore # Ignorar venv, .env e arquivos temporários
 
@@ -66,7 +66,9 @@ git clone https://github.com/engvictortech/bot_python_mysql.git
 
 Veja o bot em ação:
 
-![Bot Demo](https://github.com/engvictortech/bot_python_mysql/raw/main/docs/bot_demo.gif)
+![Bot Demo](/docs/bot_demo.gif?raw=true)
+
+
 
 
 
