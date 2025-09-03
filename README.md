@@ -72,11 +72,13 @@ Opção 1 – caminho relativo com `?raw=true`:
 
 
 
+
 ## 🎬 Demonstração do Bot
 
 Veja o bot em ação:
 
-![Bot Demo](docs/bot_demo.gif?raw=true)
+![Bot Demo](https://github.com/engvictortech/bot_python_mysql/raw/main/docs/bot_demo.gif)
+
 
 
 
