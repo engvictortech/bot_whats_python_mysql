@@ -45,7 +45,7 @@ bot_python_mysql/
 
 │
 
-├─ docs/                  # Documentação e mídias  
+├─ gif/                  # Documentação e mídias  
 
 │  └─ bot_demo.gif        # 🎬 GIF mostrando o bot em ação  
 
@@ -92,7 +92,7 @@ python src/bot_whatsapp.py
 
  # 🤖 Bot Python + MySQL
 
-![Bot em ação](https://github.com/engvictortech/bot_python_mysql/blob/main/docs/bot_demo.gif?raw=true)
+![Bot em ação](https://github.com/engvictortech/bot_python_mysql/blob/main/gif/bot_demo.gif?raw=true)
 
 
 
